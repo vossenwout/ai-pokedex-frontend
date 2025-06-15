@@ -4,13 +4,6 @@ This project is a chat interface for my AI Pokédex, built with Streamlit.
 
 <img src="data/banner.png" alt="Pokedex Frontend Screenshot" width="300"/>
 
-## Features
-
-- Simple and intuitive chat interface.
-- Conversation history (up to 10 messages).
-- Connects to a backend Pokédex assistant.
-- Easy to set up and run locally.
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -32,7 +25,7 @@ Before you begin, ensure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/WoutVossen/pokedex-frontend.git
+    git clone https://github.com/vossenwout/pokedex-frontend
     cd pokedex-frontend
     ```
 
