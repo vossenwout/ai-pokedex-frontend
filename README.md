@@ -4,6 +4,17 @@ This project is a chat interface for my AI Pokédex, built with Streamlit.
 
 <img src="data/banner.png" alt="Pokedex Frontend Screenshot" width="300"/>
 
+## AI Pokedex Project Repos
+
+These are the repos that are used to create and run the AI Pokedex.
+
+- [Knowledgebase and Scraper](https://github.com/vossenwout/pokedex-scraper)
+- [Assistant API](https://github.com/vossenwout/pokedex-rag-api)
+- [Frontend](https://github.com/vossenwout/pokedex-frontend)
+- [Evaluation Framework](https://github.com/vossenwout/pokedex-rag-evaluation)
+
+I created a youtube video where I explain the project: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
